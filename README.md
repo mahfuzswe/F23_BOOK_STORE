@@ -33,7 +33,7 @@
 
 ![my_books](./images/my_books_records.png)
 
-### Video Presentaion on YouTube
+### Video Presentation on YouTube
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qcIGIuYwQf8/0.jpg)](https://www.youtube.com/watch?v=qcIGIuYwQf8)
 
